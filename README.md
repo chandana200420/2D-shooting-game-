@@ -20,7 +20,7 @@ A Python-based game using Pygame with shooting mechanics, collision detection, a
 
 ### 📈 Product Trend Analysis
 Analyzed cross-platform fashion data (Shein, H&M, etc.) using Pandas and Seaborn to detect pricing trends.  
-[View Code](https://github.com/chandana200412/Product-Trend-Analysis)
+[View Code](https://github.com/chandana200420/2D-shooting-game-.git)
 
 ## 🎓 Education
 Bachelor’s in Computer Science  
